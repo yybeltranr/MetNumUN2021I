@@ -4,7 +4,7 @@
 >
 > By: Yuli Beltrán - Computer and Systems Engineering Student
 
-#### Lab 1:  Quantopian Python Lectures 1-5
+#### Lab 1:  Quantopian Python Lectures 1-5(../Lab1)
 #### Lab 2:  Reproduce the “The PyData Toolbox with Scott Sanderson” notebook
 #### Lab 3:  Cognitiveclass.ai/ Applied Data Science with Python
 #### Lab 4:  QuantConnect

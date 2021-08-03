@@ -1,5 +1,5 @@
 # MetNumUN2021I
-### Numerical Methods
+## Numerical Methods
 > Universidad Nacional de Colombia
 >
 > By: Yuli Beltrán - Computer and Systems Engineering Student
